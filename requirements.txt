@@ -1,0 +1,5 @@
+discord.py==2.4.0
+transformers==4.30.0
+torch==2.4.0
+python-dotenv==1.0.0
+asyncio==3.4.3
